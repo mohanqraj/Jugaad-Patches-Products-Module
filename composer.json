@@ -1,0 +1,8 @@
+{
+    "name": "drupal/product_page",
+    "description": "Packages for QR code generator",
+    "type": "drupal-module",
+    "require": {
+        "endroid/qr-code": "^4.7"
+    }
+}

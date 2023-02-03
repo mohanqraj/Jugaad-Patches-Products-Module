@@ -1,0 +1,11 @@
+langcode: en
+dependencies:
+  enforced:
+    module:
+    - product_page
+name: 'Jugaad Patches Product Page'
+type: product_page
+description: 'Use this content type for Jugaad Patches product page'
+help: ''
+new_revision: false
+preview_mode: 1

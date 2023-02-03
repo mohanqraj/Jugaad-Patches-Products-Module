@@ -1,0 +1,5 @@
+name: Product Page
+type: module
+core_version_requirement: ^9 || ^10
+description: 'Provides content type and QR Code Block for Product Page'
+package: custom
